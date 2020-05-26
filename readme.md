@@ -7,7 +7,7 @@ including skills such as lines, anchor points, figures,effects,text, work with c
 
 I hope you like them.
 
-![alt text](/flyer.jpg)
-![alt text](adobe-Ai-work/blob/master/calendar.jpg/200/200)
-![alt text](adobe-Ai-work/blob/master/GD2019%20ver2%20%5Bfinal%5D.png/200/200)
-![alt text](adobe-Ai-work/blob/master/rooster%20home%20made.png/200/200)
+![alt text](/flyer.jpg/200/200)
+![alt text](/calendar.jpg/200/200)
+![alt text](/GD2019%20ver2%20%5Bfinal%5D.png/200/200)
+![alt text](/rooster%20home%20made.png/200/200)
