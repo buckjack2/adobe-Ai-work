@@ -13,4 +13,4 @@ I hope you like them.
 ![](/flyer.jpg)
 ![](/calendar.jpg)
 ![](/GD2019%20ver2%20%5Bfinal%5D.png)
-![](rooster%20home%20made.png ")
+![](rooster%20home%20made.png")
